@@ -30,7 +30,7 @@ install_requires = [
     'phonenumbers',
     'django-phonenumber-field>=4.0.0,<7.0.0',
     # Used for oscar.test.factories
-    'factory-boy>=3.0,<3.3',
+    'factory-boy>=3.0,<3.4',
     # Used for automatically building larger HTML tables
     'django-tables2>=2.3,<2.4',
     # Used for manipulating form field attributes in templates (eg: add
